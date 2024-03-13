@@ -1,0 +1,30 @@
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.AssemblyInfoInputs.cache
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.AssemblyInfo.cs
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.csproj.CoreCompileInputs.cache
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.MvcApplicationPartsAssemblyInfo.cache
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.RazorAssemblyInfo.cache
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.RazorAssemblyInfo.cs
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\appsettings.Development.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\appsettings.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\Hospital Appointment.staticwebassets.runtime.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\Hospital Appointment.exe
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\Hospital Appointment.deps.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\Hospital Appointment.runtimeconfig.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\Hospital Appointment.dll
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\bin\Debug\net8.0\Hospital Appointment.pdb
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets.build.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets.development.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets\msbuild.Hospital Appointment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets\msbuild.build.Hospital Appointment.props
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hospital Appointment.props
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hospital Appointment.props
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\scopedcss\bundle\Hospital Appointment.styles.css
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\scopedcss\projectbundle\Hospital Appointment.bundle.scp.css
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.dll
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\refint\Hospital Appointment.dll
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.pdb
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\Hospital Appointment.genruntimeconfig.cache
+D:\Kareem\Web Development\Eraasoft\4. MVC\Lecture 26\task\Hospital Appointment\obj\Debug\net8.0\ref\Hospital Appointment.dll
